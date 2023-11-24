@@ -1,0 +1,7 @@
+C:\Users\USUARIO\Desktop\sistemas\p2_sem14\p2_sem14\bin\Debug\p2_sem14.exe.config
+C:\Users\USUARIO\Desktop\sistemas\p2_sem14\p2_sem14\bin\Debug\p2_sem14.exe
+C:\Users\USUARIO\Desktop\sistemas\p2_sem14\p2_sem14\bin\Debug\p2_sem14.pdb
+C:\Users\USUARIO\Desktop\sistemas\p2_sem14\p2_sem14\obj\Debug\p2_sem14.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\sistemas\p2_sem14\p2_sem14\obj\Debug\p2_sem14.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\sistemas\p2_sem14\p2_sem14\obj\Debug\p2_sem14.exe
+C:\Users\USUARIO\Desktop\sistemas\p2_sem14\p2_sem14\obj\Debug\p2_sem14.pdb
